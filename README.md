@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itstbell
-- 👀 I’m interested in coding and learning how to stack 
+- 👀 I’m interested in coding and software development 
 - 🌱 I’m currently learning 3D animation and how to create NFT's
-- 💞️ I’m looking to collaborate on different types of coding
+- 💞️ I’m looking to collaborate on different types of coding projects
 - 📫 How to reach me, my email is pr@heirbell.com
 
 <!---
